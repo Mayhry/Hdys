@@ -1,0 +1,158 @@
+.content{
+	width: 1100px;
+	padding-top: 56px;
+	margin: 0 auto;
+	text-align: center;
+}
+.content .pic-le{
+	float: left;
+	margin-top: 72px;
+}
+.content .loginbox{
+	float: left;
+	width: 487px;
+    border-left: #DDD 1px dashed;
+    padding: 0 80px;
+    margin-top: 30px;
+}
+.content .loginbox .logform{
+	width: 380px;
+	padding-top: 26px;
+	border: 1px solid #EEE;
+	padding-bottom: 70px;
+	box-shadow: 2px 1px 5px rgba(0,0,0,0.4);
+	overflow: hidden;
+}
+.content h1{
+	width: 326px;
+	height: 30px;
+	font-size: 22px;
+	text-align: left;
+	margin-left: 20px;
+	border-bottom: solid 1px #eee;
+	color: #666;
+}
+.content form{
+	margin-top: 40px;
+    float: right;
+}
+.content form div{
+	float: right;
+	width: 292px;
+	margin-right: 50px;
+	margin-bottom: 12px;
+}
+.content form label{
+	font-size: 16px;
+	font-family: 'Microsoft YaHei';
+	width: 75px;
+	text-align: right;
+	color: #393939;
+	line-height: 33px;
+}
+.content form .info input{
+	width: 200px;
+	height: 33px;
+	line-height: 33px;
+	float: right;
+	color: #BBBBBB;
+	padding-left: 7px;
+	border: 1px solid #ccc;
+	font-family: 'Microsoft YaHei';
+}
+.content form .confirmcode input{
+	width: 120px;
+	height: 33px;
+	line-height: 33px;
+	float: right;
+	color: #BBBBBB;
+	border: 1px solid #ccc;
+	font-family: 'Microsoft YaHei';
+}
+.content form .confirmcode p{
+	color: #BF0000;
+    margin-top: 9px;
+    padding-right: 28px;
+    display: none;
+}
+#idcode{
+	float: right;
+	display: block;
+	width: 80px;
+	height: 37px;
+	margin-left: 7px;
+	background: green;
+}
+.logform .loginbtn{
+	float: right;
+	width: 80%;
+	margin-right: 20px;
+}
+#btnlog{
+	float: left;
+	background: #BE0929;
+    width: 140px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #fff;
+    border-radius: 2px;
+    letter-spacing: 1px;
+    border: none;
+    margin-left: 66px;
+    font-family: 'Microsoft YaHei';
+}
+#savelog{
+	float: left;
+	margin-top: 16px;
+}
+.loginbtn p{
+	font-family: 'Microsoft YaHei';
+	margin-top: 18px;
+	color: #000;
+	font-size: 12px;
+}
+.forget{
+	text-align: center;
+}
+.forget a{
+	padding: 3px;
+}
+.forget a:hover{
+	text-decoration: underline;
+}
+.other-log {
+	float: left;
+	width: 120%;
+	margin: 30px 0;
+}
+.other-log span{
+	float: left;
+	margin-top: 10px;
+}
+.other-log a{
+	background: url(../img/login/NEWS_login.png);
+	width: 97px;
+	height: 29px;
+	margin-right: 8px;
+	float: left;
+}
+.other-log .qq{
+	background-position: 0 -528px;
+}
+.other-log .sina{
+	background-position: -111px -528px;
+}
+.other-log .thunder{
+	background-position: -222px -528px;
+}
+.other-log .alipay{
+	background-position: -333px -528px;
+}
+#ehong-code{
+    width: 80px;
+    height: 33px;
+    left: 54px;
+    float: right;
+    line-height: 33px
+}

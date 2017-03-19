@@ -1,0 +1,291 @@
+
+.content{
+	width: 1100px;
+	color: #333333;
+	margin: 20px auto 0;
+}
+.topImg{
+	text-align: center;
+}
+.leftImg{
+	float: left;
+	width: 360px;
+	margin: 40px 0 0 80px;
+}
+.leftImg p{
+	font-size: 14px;
+	font-weight: bold;
+	font-family: "微软雅黑";
+}
+.leftImg p .dirlog{
+	background: url(../img/login/NEWS_login.png) no-repeat -347px -211px;
+	width: 103px;
+	height: 29px;
+	border: none;
+	color: #fff;
+	font-size: 16px;
+	line-height: 29px;
+	letter-spacing: 1px;
+	margin: 8px 0 0 10px;
+	cursor: pointer;
+}
+.leftImg form{
+}
+.book-txt{
+	width: 250px;
+	height: 25px;
+	border: 1px solid #ddd;
+	float: left;
+	font: 14px/20px '宋体';
+	color: #666;
+}
+.book-btn{
+	width: 70px;
+	height: 22px;
+	background: url(../img/index/footer00.png) no-repeat;
+	float: left;
+	margin: 2px 8px;
+	border: none;
+	text-indent: -999em;
+	cursor: pointer;
+}
+.rightform{
+	height: 500px;
+	border-left: #DDD 1px dashed;
+	margin: 30px 0 0 454px;
+	padding-left: 50px
+}
+.rightform .register-step1{
+	position: relative;
+	width: 609px;
+	border-bottom: #ddd 1px dashed;
+	height: 120px;
+	line-height: 50px;
+}
+.rightform h3{
+	font-size: 12px;
+}
+.rightform i{
+	background: url(../img/login/NEWS_login.png) no-repeat 0 -326px;
+	width: 22px;
+	height: 22px;
+	color: #fff;
+	float: left;
+	font-style: normal;
+	text-align: center;
+	line-height: 22px;
+	margin: 13px 0 0 0;
+}
+.rightform h3 span{
+	float: left;
+	margin-left: 8px;
+	line-height: 50px;
+}
+.rightform .register-step1 h3 em{
+	float: left;
+	width: 135px;
+	height: 38px;
+	color: #393939;
+	border: none;
+	display: block;
+	line-height: 32px;
+	text-align: center;
+	font-size: 14px;
+	font-style: normal;
+	margin-left: 10px;
+	background: url(../img/login/NEWS_login.png) no-repeat 0 -151px;
+	cursor: pointer;
+}
+.register-step1 h3 em.active{
+	color: #fff;
+	background-position: 0 -102px;
+}
+.rightform .register-step1 p{
+	position: absolute;
+	left: 116px;
+	top: 50px;
+	float: left;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	padding-left: 10px;
+	margin-top: 10px;
+	background-color: #fffac3;
+}
+.rightform .register-step1 p em{
+	position: absolute;
+	top: -9px;
+	left: 65px;
+	width: 0px;
+	height: 0px;
+	color: white;
+	text-align: center;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	border-bottom: 8px solid #fffac3;
+}
+.rightform .register-step2{
+	padding-top: 14px;
+}
+.rightform .register-step2 div{
+	position: relative;
+	width: 580px;
+	line-height: 33px;
+	text-indent: 32px ;
+	float: left;
+	margin-bottom: 10px;
+}
+.rightform input{
+	float: left;
+	padding-left: 10px;
+	width: 200px;
+    height: 33px;
+    border: none;
+	background: url(../img/login/shopping_login.png) no-repeat -0 -182px;
+}
+.rightform .register-step2 div label{
+	float: left;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+.rightform .register-step2 div .phone{
+	background: url(../img/login/shopping_login.png) no-repeat -0 -182px;
+    width: 199px;
+    height: 33px;
+    border: none;
+    text-indent: 5px;
+    line-height: 33px;
+}
+.rightform .register-step2 div .sendtophone{
+	background: url(../img/login/shopping_login.png) no-repeat -256px -130px;
+	width: 116px;
+	height: 26px;
+	line-height: 26px;
+	text-indent: 30px;
+	margin: 3px 0 0 5px;
+	color: #7b7b7b;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.rightform .register-step2 div span{
+	position: absolute;
+	right: 16px;
+	top: 8px;
+	color: #bf0000;
+}
+.rightform .register-step2 .notice{
+	color: #7b7b7b;
+	text-indent: 88px;
+}
+.notice a{
+	color: #bf0000;
+}
+.rightform .register-step2 .concode{
+	margin-left: 28px;
+	position: relative;
+}
+.rightform .register-step2 .psd1{
+	margin-left: 42px;
+}
+.rightform .psd1 p,.rightform .psd2 p{
+	line-height: 16px;
+	font-size: 12px;
+	text-indent: 82px;
+}
+.rightform .psd2 p{
+	text-indent: 108px;
+}
+.rightform .register-step2 .psd2{
+	margin-left: 16px;
+}
+.register-step2 p{
+	float: left;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	position: relative;
+}
+.rightform p input{
+	margin-left: 118px;
+	width: auto;
+	height: auto;
+}
+.rightform p span{
+	float: left;
+}
+.rightform p a{
+	color: #bf0000;
+}
+.rightform div.conlogin{
+	background: url(../img/login/NEWS_login.png) no-repeat 0 -51px;
+    width: 171px;
+    height: 43px;
+    text-indent: 20px;
+    line-height: 43px;
+    border: none;
+    font-size: 18px;
+    color: #fff;
+    margin: 10px 0 16px 120px;
+    cursor: pointer;
+}
+.formemail .email{
+	margin-left: 32px;
+}
+.formemail .email p{
+	font-size: 12px;
+	text-indent: 90px;
+}
+.formemail .yzm{
+	margin-left: 30px;
+}
+#Txtidcode{
+	width: 115px;
+	height: 30px;
+	border: 1px solid;
+	background: none;
+}
+#ehong-code{
+	width: 56px;
+	top: -10px;
+	left: -280px;
+	text-indent: 5px;
+}
+.rightform .register-step2 label{
+	float: left;
+}
+
+.rightform .register-step2 div .war{
+	display: none;
+	float: left;
+	position: static;
+	
+}
+#code2{
+	width: 50px;
+    height: 30px;
+    position: static;
+    background: #FEC;
+    display: block;
+    float: left;
+    margin-left: 10px;
+    text-indent: 9px;
+    letter-spacing: 2px;
+    color: green;
+    cursor: pointer;
+}
+.yzm input{
+	width: 124px;
+	height: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+[
+	{
+		"id":1,
+		"text":"11.11",
+		"src":"img/11_11.jpg"
+	},
+	{
+		"id":2,
+		"text":"朴信惠冬装大片发布",
+		"src":"img/pxh.jpg"
+	},
+	{
+		"id":3,
+		"text":"双11来啦",
+		"src":"img/shuang11.jpg"
+	},
+	{
+		"id":4,
+		"text":"设计师大赛",
+		"src":"img/bsl.jpg"
+	},
+	{
+		"id":5,
+		"text":"韩风快时尚童装",
+		"src":"img/hb.jpg"
+	}
+	
+]
